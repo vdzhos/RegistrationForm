@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.panel {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 400px;
+    padding: 30px;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+.form {
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI";
+}
+
+.input {
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding: 12px 10px 12px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.wrong {
+    visibility: hidden;
+    color: #ff0000;
+    font-size: 14px;
+    font-family: "Segoe UI Semibold";
+}
+
+.button {
+    width: 60%;
+    font-size: 18px;
+    margin: 15px 20% 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 10px;
+    background-color: #0e67f5;
+    color: #fff;
+    border: none;
+}
+
+.button:active {
+    background-color: #0d459c;
+}
+
