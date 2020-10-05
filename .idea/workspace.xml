@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bc7867-0775-40a0-af3a-291e4208d589" name="Default Changelist" comment="Add the registration form">
+    <list default="true" id="d1bc7867-0775-40a0-af3a-291e4208d589" name="Default Changelist" comment="Change the name eof html file from main to index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -62,6 +64,10 @@
       <workItem from="1601314956218" duration="14713000" />
       <workItem from="1601398331066" duration="7636000" />
       <workItem from="1601460086276" duration="3000" />
+      <workItem from="1601573622848" duration="1645000" />
+      <workItem from="1601834643046" duration="270000" />
+      <workItem from="1601920445110" duration="107000" />
+      <workItem from="1601920560654" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="Add the registration form">
       <created>1601469734970</created>
@@ -77,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601469756051</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change the name eof html file from main to index">
+      <created>1601471510431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601471510431</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,16 +106,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add the registration form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the registration form" />
+    <MESSAGE value="Change the name eof html file from main to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the name eof html file from main to index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601469761915">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601834910520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601469761915" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601834910520" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601471515794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601471515794" />
     <state x="374" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601325197423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -111,5 +130,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601469782698" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601920551440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601920551440" />
   </component>
 </project>

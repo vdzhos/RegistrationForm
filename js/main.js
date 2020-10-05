@@ -64,6 +64,7 @@ registerBtn.onclick = function () {
         return;
     }
     alert("Congratulations! Registration successful!");
+    email.value = "";
 }
 
 
